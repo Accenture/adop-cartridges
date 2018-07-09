@@ -16,3 +16,6 @@ adop-cartridge-aspnet-linux:
 adop-cartridge-flyway:
   name: "ADOP Flyway Cartridge"
   url: "https://github.com/kramos/adop-cartridge-flyway.git"
+adop-cartridge-java-pipeline:
+  name: "ADOP Java Pipeline Cartridge"
+  url: "https://github.com/Accenture/adop-cartridge-java-pipeline"
